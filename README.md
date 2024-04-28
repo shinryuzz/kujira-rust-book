@@ -16,3 +16,9 @@ chmod +x run.sh
 ```
 rustc src/a/b.rs -o target/a/b
 ``` 
+
+### Run with Cargo
+```
+cd ${cargo_project}
+cargo run
+```
