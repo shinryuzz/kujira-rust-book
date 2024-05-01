@@ -1,4 +1,4 @@
-workspace = { members = [ "src/ch2/bingocard", "src/ch2/bingocard_vec", "src/ch2/dice", "src/ch2/input_height", "src/ch2/jisho", "src/ch2/maze", "src/ch2/sum_args"] }
+workspace = { members = [ "src/ch2/bingocard", "src/ch2/bingocard_vec", "src/ch2/dice", "src/ch2/input_height", "src/ch2/jisho", "src/ch2/maze", "src/ch2/sum_args", "src/ch3/mytest", "src/ch3/slice_sum", "src/ch3/str_static", "src/ch3/str_tobytes", "src/ch3/tuple_goods_strcut"] }
 [package]
 name = "kujira-rust-book"
 version = "0.1.0"
